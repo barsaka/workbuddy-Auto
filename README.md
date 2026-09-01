@@ -12,14 +12,19 @@
 坐标零点是左上角，x，y数值向右向下增加
 
 ## 菜单位置
- MENU_X = 150
- MENU_Y = 983
+
+MENU_X = 150
+MENU_Y = 983
+ 
 ## 签到菜单
- CHECKIN_X = 112
- CHECKIN_Y = 510
+
+CHECKIN_X = 112
+CHECKIN_Y = 510
+ 
 ## 领取位置
- LINGQU_X = 50      # 新增领取按钮 X
- LINGQU_Y = 925     # 新增领取按钮 Y
+
+LINGQU_X = 50
+LINGQU_Y = 925
 
 
 
